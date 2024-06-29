@@ -1,6 +1,0 @@
-count: 10
-message: "你不幸殒命了，复活令你消耗10点疲劳值"
-world:
-  - "zy"
-  - "DIM1"
-  - "DIM-1"
